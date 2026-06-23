@@ -75,6 +75,4 @@ Notes:
 Files in this repository
 - notebooks/push_from_colab.ipynb — a Colab notebook with secure, ready-to-run cells for pushing commits from Colab (uses in-memory PAT via getpass and http.extraheader).
 
-If you'd like, I can also:
-- Add an automated data-check cell that lists the downloaded files and verifies expected files are present.
-- Open a PR for the notebook instead of committing directly to main.
+
