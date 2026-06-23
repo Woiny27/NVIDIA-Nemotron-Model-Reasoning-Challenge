@@ -1,0 +1,4 @@
+id,reasoning,answer
+1,"The problem requires analyzing the given context to derive a logical conclusion. By examining each step carefully and following the reasoning chain, we can arrive at the correct answer.","answer_text_here"
+2,"This example demonstrates how to structure reasoning for the Nemotron challenge. The reasoning field should contain your logical deduction process.","answer_text_here"
+3,"Include detailed step-by-step explanations in the reasoning column to help the model understand your thought process.","answer_text_here"
